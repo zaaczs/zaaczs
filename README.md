@@ -1,10 +1,13 @@
 <!-- Banner animado no topo -->
 <img src="https://camo.githubusercontent.com/d6c684e272dfca89e599b25fdee03d847881c72f52af372ef6d577a958a8814e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" alt="banner animado" />
 
-<!-- Texto animado com Readme Typing SVG -->
-<p align="center">
+<!-- Imagem lateral -->
+<img src="https://raw.githubusercontent.com/zaaczs/assets/main/dev-illustration.png" width="300" align="right" alt="Developer working illustration" />
+
+<!-- Texto animado com Readme Typing SVG (corrigido) -->
+<p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=500&lines=Oi%2C+eu+me+chamo+Isaac;Tenho+21+anos;Moro+em+Fortaleza;Seja+bem+vindo!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Oi%2C+eu+me+chamo+Isaac;Tenho+21+anos;Moro+em+Fortaleza;Seja+bem+vindo!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,7 +40,9 @@ Sou o Isaac! Um desenvolvedor apaixonado por inovação, tecnologia e soluções
 
 ## 📊 Bancos de Dados
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
@@ -45,13 +50,19 @@ Sou o Isaac! Um desenvolvedor apaixonado por inovação, tecnologia e soluções
 ## 🛠️ Ferramentas e Outros
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git Flow](https://img.shields.io/badge/Git_Flow-29B2FE?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 📱 Mídias Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaacramosf/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacjoseramos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-ramos-1a5300235)
 
