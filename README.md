@@ -20,7 +20,7 @@ Sou o Isaac! Um desenvolvedor apaixonado por inovação, tecnologia e soluções
 
 <!-- Gráfico de linguagens mais usadas -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaaczs&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
 </p>
 
 ---
