@@ -1,10 +1,10 @@
 <!-- Banner animado no topo -->
-<img src="https://camo.githubusercontent.com/d6c684e272dfca89e599b25fdee03d847881c72f52af372ef6d577a958a8814e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572" alt="banner animado" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<!-- Texto animado com Readme Typing SVG (corrigido) -->
+<!-- Texto animado -->
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Oi%2C+eu+me+chamo+Isaac;Tenho+21+anos;Moro+em+Fortaleza;Seja+bem+vindo!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&width=500&lines=Oi%2C+eu+me+chamo+Isaac;Tenho+21+anos;Moro+em+Fortaleza;Seja+bem+vindo!" />
   </a>
 </p>
 
@@ -62,5 +62,4 @@ Sou o Isaac! Um desenvolvedor apaixonado por inovação, tecnologia e soluções
 
 ---
 
-<!-- Banner final animado -->
-<img src="https://camo.githubusercontent.com/8229a757706b9767e60a2a02f9213c24b21fd7f47899b33bb6eb95807bdafbd6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572" alt="banner final" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
