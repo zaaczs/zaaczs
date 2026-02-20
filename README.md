@@ -18,10 +18,10 @@ Sou o Isaac! Um desenvolvedor apaixonado por inovação, tecnologia e soluções
 
 ## 📊 Linguagens Mais Utilizadas
 
-<!-- Gráfico de linguagens mais usadas -->
+[<!-- Gráfico de linguagens mais usadas -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaaczs&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
-</p>
+</p>](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaaczs&layout=compact&theme=tokyonight)
 
 ---
 
