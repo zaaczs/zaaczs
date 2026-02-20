@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## 🔧 Função: Desenvolvedor de Software Front-End
+## 🔧 Função: Desenvolvedor Full Stack
 
 ## 👋 Sobre mim
 
@@ -58,7 +58,7 @@ Sou o Isaac! Um desenvolvedor apaixonado por inovação, tecnologia e soluções
 ---
 
 > ### 💼 Emprego Atual
-> Atualmente trabalhando na Cardápio Web
+> Atualmente trabalhando em uma Agência
 
 ---
 
